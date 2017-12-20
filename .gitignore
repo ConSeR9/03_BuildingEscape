@@ -8,3 +8,7 @@ BuildingEscape/Content/StarterContent/
 
 # VS Generated Files
 *VC.db
+*VC.db-shm
+*VC.db-wal
+*VC.opendb
+*.ipch
